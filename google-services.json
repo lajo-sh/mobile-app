@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682271353238",
+    "project_id": "lajosh-3061c",
+    "storage_bucket": "lajosh-3061c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682271353238:android:3f10c9449947b3b44c15b7",
+        "android_client_info": {
+          "package_name": "sh.lajo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdptLnsf-AC8Wfpx9v95t20NOeCwhR6EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
