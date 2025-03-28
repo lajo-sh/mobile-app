@@ -82,8 +82,8 @@ export function AuthProvider({ children }: { children?: React.ReactNode }) {
 						setFullName(data.user.fullName);
 						setSession(token);
 
-						await storage.setItem("userEmail", data.email);
-						await storage.setItem("fullName", data.fullName);
+						await storage.setItem("userEmail", data.user.email);
+						await storage.setItem("fullName", data.user.fullName);
 					} else {
 						await signOut();
 					}
